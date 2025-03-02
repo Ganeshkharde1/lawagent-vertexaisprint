@@ -1,4 +1,4 @@
-# Lawagent VertexAI Sprint
+# Lawagent (Legal RAG) VertexAI Sprint
 
 ## Cloning the Repository
 To clone the repository to your local machine, run the following command:

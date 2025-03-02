@@ -1,4 +1,7 @@
 # Lawagent (Legal RAG) VertexAI Sprint
+![download](https://github.com/user-attachments/assets/8af1b902-b3fe-4c69-bb5e-d8adf6ce7f35)
+
+## How to Run the Project Locally
 
 ## Cloning the Repository
 To clone the repository to your local machine, run the following command:
